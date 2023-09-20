@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ]
+  ],
+  "legacy_uid": "4016ab4d-22e1-e943-f59a-b834b6bf3b24",
+  "instructors": {
+    "content": [
+      "221fded3-b784-a586-b139-1d87009d8990"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e79b2636-1ce4-5a84-9421-1b3e0c2a14e0",
+    "website": "8-231-physics-of-solids-i-fall-2006"
+  },
+  "course_title": "Physics of Solids I",
+  "course_description": "This course offers an introduction to the basic concepts of the quantum theory of solids.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.231",
+  "course_image_thumbnail": {
+    "content": "4f010fde-3e0c-a8e1-02b5-a21f8adbe1da",
+    "website": "8-231-physics-of-solids-i-fall-2006"
+  },
+  "learning_resource_types": [
+    "Simulations",
+    "Problem Sets"
+  ],
+  "site_uid": "13a8b163-f54b-4c52-bebe-eaf8fe6a20d7",
+  "site_short_id": "8.231-fall-2006",
+  "title": "Course Metadata"
+}
